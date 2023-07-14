@@ -1,9 +1,9 @@
-关于Vivado的一些东西。。。
+关于Vivado的一些东西。。。 Verilog代码在.srcs文件夹里面
 
-（y1s1，从来没用过这东西，从零开始）
+（y1s1，从来没用过这东西，从零开始，咱也没碰过FPGA啊。。。大佬看到勿喷）
 
 
 
 - **project_1**：简单行为仿真 —— 与，或，非，异或
-
-  ![](https://pic.kohaku.xin/images/2023/07/13/vivado_Mi6zwXdRfF.png)
+- **project_2**：半加器和全加器
+- **project_3**：半减器和全减器

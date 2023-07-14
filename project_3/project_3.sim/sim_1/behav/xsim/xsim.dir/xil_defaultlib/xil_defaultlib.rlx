@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/VivadoProject/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/VivadoProject/project_3/project_3.srcs/sim_1/new/full_subber_bench.v,1689322828,verilog,,,,full_subber_bench,,,,,,,,
+D:/VivadoProject/project_3/project_3.srcs/sim_1/new/half_subber_bench.v,1689321227,verilog,,,,half_subber_bench,,,,,,,,
+D:/VivadoProject/project_3/project_3.srcs/sources_1/new/full_subber.v,1689322632,verilog,,D:/VivadoProject/project_3/project_3.srcs/sim_1/new/full_subber_bench.v,,full_subber,,,,,,,,
+D:/VivadoProject/project_3/project_3.srcs/sources_1/new/half_subber.v,1689320947,verilog,,D:/VivadoProject/project_3/project_3.srcs/sim_1/new/half_subber_bench.v,,half_subber,,,,,,,,

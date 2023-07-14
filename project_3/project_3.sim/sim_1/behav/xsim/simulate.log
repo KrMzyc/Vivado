@@ -1,0 +1,12 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+i1=x,i2=x,o_c=x,o_sub=x
+i1=0,i2=0,o_c=0,o_sub=0
+i1=1,i2=0,o_c=0,o_sub=1
+i1=0,i2=1,o_c=1,o_sub=1
+i1=1,i2=1,o_c=0,o_sub=0
+1=1,i2=1,i_c=0,o_c=0,o_sub=0
+i1=0,i2=0,i_c=1,o_c=1,o_sub=1
+i1=1,i2=0,i_c=1,o_c=0,o_sub=0
+i1=0,i2=1,i_c=1,o_c=1,o_sub=0
+i1=1,i2=1,i_c=1,o_c=1,o_sub=1
